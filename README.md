@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jromerog01/personal-portfolio"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-111827?style=for-the-badge" alt="Portafolio" /></a>
+  <a href="https://jromerog.dev"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-111827?style=for-the-badge" alt="Portafolio" /></a>
   <a href="mailto:jromerog01@outlook.com"><img src="https://img.shields.io/badge/Email-jromerog01%40outlook.com-111827?style=for-the-badge" alt="Email" /></a>
   <a href="https://github.com/jromerog01"><img src="https://img.shields.io/github/followers/jromerog01?style=for-the-badge&label=Followers&color=111827" alt="Followers" /></a>
 </p>
