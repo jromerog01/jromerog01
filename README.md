@@ -9,11 +9,8 @@
 <br/>
 
 <a href="https://jromerog.dev"><img src="https://img.shields.io/badge/Portafolio-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMSAySDNhMiAyIDAgMCAwLTIgMnYxMWEyIDIgMCAwIDAgMiAyaDd2Mkg3djJoMTB2LTJoLTN2LTJoN2EyIDIgMCAwIDAgMi0yVjRhMiAyIDAgMCAwLTItMnptMCAxM0gzVjRoMTh2MTF6Ii8+PC9zdmc+Cg==&logoColor=white" alt="Portafolio" /></a>
-<a href="mailto:jromerog01@outlook.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/jesus-antonio-romero-godoy-8a9032383/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/jromerog01"><img src="https://img.shields.io/github/followers/jromerog01?style=for-the-badge&label=Follow&color=1E293B&labelColor=1E293B" alt="Followers" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=jromerog01&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="mailto:jromerog01@outlook.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/jesus-antonio-romero-godoy-8a9032383/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -25,7 +22,7 @@
 
 ## &nbsp;🧭&nbsp; Sobre mí
 
-Soy estudiante de **Ciencias de la Computación** en la Facultad de Ciencias, **UNAM** . Me mueve el desarrollo **backend**, entender cómo encajan las piezas de un sistema y escribir software mantenible que escale bien. Aprendo construyendo, ya que creo que es la mejor forma de hacerlo. Cada proyecto que desarrollo termina documentado en mi **[portafolio web](https://github.com/jromerog01/personal-portfolio)**.
+Soy estudiante de **Ciencias de la Computación** en la Facultad de Ciencias, **UNAM** . Me enfoco en el desarrollo **backend**, entender cómo encajan las piezas de un sistema y escribir software mantenible que escale bien. Aprendo construyendo, ya que creo que es la mejor forma de hacerlo. Cada proyecto que desarrollo termina documentado en mi **[portafolio web](https://github.com/jromerog01/personal-portfolio)**.
 
 🎓 &nbsp;**Licenciatura** · Ciencias de la Computación · UNAM · 2023 — presente <br/>
 🧩 &nbsp;**Enfoque** · Backend · Bases de datos · Arquitectura de sistemas <br/>
@@ -44,18 +41,18 @@ Soy estudiante de **Ciencias de la Computación** en la Facultad de Ciencias, **
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> &nbsp;Estadísticas
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jromerog01&hide_border=true&bg_color=1E2B3C&color=95CCFF&line=95CCFF&point=FFFFFF&area=true&area_color=95CCFF" alt="Activity Graph" />
-
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jromerog01&hide_border=true&background=1E2B3C&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&currStreakNum=95CCFF&sideNums=95CCFF" alt="Streak" />
 
 </td>
 </tr>
 </table>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jromerog01&hide_border=true&bg_color=1E2B3C&color=95CCFF&line=95CCFF&point=FFFFFF&area=true&area_color=95CCFF" alt="Activity Graph" />
+
 <div align="center">
 
 📫 &nbsp;<a href="mailto:jromerog01@outlook.com">jromerog01@outlook.com</a> &nbsp;·&nbsp; 🌐 &nbsp;<a href="https://jromerog.dev">jromerog.dev</a> &nbsp;·&nbsp; 📍 Ciudad de México
 
-<sub><i>Gracias por pasar 👋 — si algo te resulta útil, ¡una ⭐ siempre se agradece!</i></sub>
+<sub><i>Gracias por pasar 👋 — si algo te resulta útil, una ⭐ siempre se agradece!</i></sub>
 
 </div>
