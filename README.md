@@ -4,7 +4,7 @@
 
 <h1>Hola, soy Jesús Romero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=6366F1&center=true&vCenter=true&width=650&height=60&lines=Ciencias+de+la+Computaci%C3%B3n+%C2%B7+UNAM;Backend+%26+Arquitectura+de+Sistemas;Java+%C2%B7+Spring+Boot" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=95CCFF&center=true&vCenter=true&width=650&height=60&lines=Ciencias+de+la+Computaci%C3%B3n+%C2%B7+UNAM;Backend+%26+Arquitectura+de+Sistemas;Java+%C2%B7+Spring+Boot" alt="Typing SVG" />
 
 <br/>
 
@@ -70,3 +70,5 @@ Soy estudiante de **Ciencias de la Computación** en la Facultad de Ciencias, **
 <sub><i>Gracias por pasar 👋 — si algo te resulta útil, una ⭐ siempre se agradece!</i></sub>
 
 </div>
+
+
