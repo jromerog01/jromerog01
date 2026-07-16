@@ -30,12 +30,47 @@ Soy estudiante de **Ciencias de la Computación** en la Facultad de Ciencias, **
 🗣️ &nbsp;**Idiomas** · Español (nativo) · Inglés (B2) <br/>
 📍 &nbsp;**Ubicación** · Ciudad de México, México
 
+## &nbsp;🚀&nbsp; Proyectos destacados
+
+#### 📦 StockFlow · API REST
+API REST para la gestión de inventarios y punto de venta (POS) para PyMEs: proveedores, catálogo, stock y ventas con trazabilidad completa de movimientos.
+
+<sub>`Java 17` · `Spring Boot 3` · `PostgreSQL` · `Docker`</sub>
+
+<a href="https://github.com/jromerog01/StockFlow-APIRest"><img src="https://img.shields.io/badge/Repositorio-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repositorio" /></a>
+<a href="https://jromerog.dev/proyectos/stockflow.html"><img src="https://img.shields.io/badge/🖥️_Página_Web-6366F1?style=flat-square&logoColor=white" alt="Pagina Web" /></a>
+<a href="https://stockflow-api.jromerog.dev/swagger-ui/index.html"><img src="https://img.shields.io/badge/▶_Demo_en_Vivo-16A34A?style=flat-square&logoColor=white" alt="Demo en Vivo" /></a>
+
+#### 🗄️ Gestión de Eventos Multirrol
+Base de datos relacional modelada desde cero en PostgreSQL para un torneo (34 tablas · 45 llaves foráneas), con restricciones, disparadores y procedimientos. Encima, una API REST en Spring Boot con JDBC y panel web.
+
+<sub>`PostgreSQL` · `Java 21` · `Spring Boot 3` · `JDBC`</sub>
+
+<a href="https://github.com/jromerog01/Proyecto-Final-Bases-de-Datos"><img src="https://img.shields.io/badge/Repositorio-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repositorio" /></a>
+<a href="https://jromerog.dev/proyectos/proyecto-bdd.html"><img src="https://img.shields.io/badge/🖥️_Página_Web-6366F1?style=flat-square&logoColor=white" alt="Pagina Web" /></a>
+
+#### 🏕️ Sistema de Reservaciones
+Gestión de reservaciones de hospedaje para el Festival de las Luciérnagas: catálogo con filtros, mapa interactivo y reglas de negocio de temporada, disponibilidad y capacidad, con roles de visitante, cliente y administrador.
+
+<sub>`Python` · `Django` · `PostgreSQL` · `Leaflet`</sub>
+
+<a href="https://github.com/jromerog01/Sistema-Reservaciones-Luciernagas"><img src="https://img.shields.io/badge/Repositorio-1E293B?style=flat-square&logo=github&logoColor=white" alt="Repositorio" /></a>
+<a href="https://jromerog.dev/proyectos/luciernagas.html"><img src="https://img.shields.io/badge/🖥️_Página_Web-6366F1?style=flat-square&logoColor=white" alt="Pagina Web" /></a>
+<a href="https://lumina-fest.jromerog.dev/"><img src="https://img.shields.io/badge/▶_Demo_en_Vivo-16A34A?style=flat-square&logoColor=white" alt="Demo en Vivo" /></a>
+
+</td>
+<td width="40%" valign="top">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> &nbsp;Estadísticas
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jromerog01&hide_border=true&background=1E2B3C&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&currStreakNum=95CCFF&sideNums=95CCFF" alt="Streak" />
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> &nbsp;Stack técnico
 
 **Backend y datos**
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Java_17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
 **Infraestructura y herramientas**
@@ -49,13 +84,6 @@ Soy estudiante de **Ciencias de la Computación** en la Facultad de Ciencias, **
 <p>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
-
-</td>
-<td width="40%" valign="top">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> &nbsp;Estadísticas
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jromerog01&hide_border=true&background=1E2B3C&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&currStreakNum=95CCFF&sideNums=95CCFF" alt="Streak" />
 
 </td>
 </tr>
